@@ -1,0 +1,26 @@
+users: [{
+    id: 0,
+    name: "Jenny",
+    gamesPlayed: [{ 
+        name: "Pateta e Max",
+        Platform: "PC",
+        Friend: "Vado",
+        Like: true
+    },
+    {
+        name: "Pokemon Blue",
+        Platform: "3DS",
+        Friend: "",
+        Like: true
+    }],
+    gamesOwned: [{
+        name: "Counter-Strike Global",
+        Platform: ["PC"],
+
+        name: "State of Decay",
+        Platform: ["Xbox One", "PC"]
+    }
+    ]
+        
+    
+}]
